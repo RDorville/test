@@ -1,4 +1,4 @@
-</p><link rel="stylesheet" type="text/css" href="mystyle.css"><p>
+<link rel="stylesheet" type="text/css" href="mystyle.css"></link>
 
 # Images and how to Style them
 
