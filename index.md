@@ -1,7 +1,9 @@
+</p><link rel="stylesheet" type="text/css" href="mystyle.css"><p>
+
 # Images and how to Style them
 
 > How to style your images   
-> ver 0.0003
+> ver 0.0004
 
 
 ### Normal image
@@ -19,3 +21,7 @@ Markdown was originally designed for HTML authoring, and permits raw HTML anywhe
     title="Alfred E Neuman" width="150" height="100" />
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque hic adipisci pariatur enim corporis laborum ab, alias ut laboriosam, unde a! Perspiciatis, ipsam, magni. Modi nam reprehenderit sunt fugit, explicabo.
+
+![Alfred](alfredeneuman.jpg#thumbnail)
+
+This is a thumbnail version using a stylesheet
