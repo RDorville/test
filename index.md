@@ -1,9 +1,9 @@
-<link rel="stylesheet" type="text/css" href="mystyle.css"></link>
+<link rel="stylesheet" type="text/css" href="mystyle.css" />
 
 # Images and how to Style them
 
 > How to style your images   
-> ver 0.0004
+> ver 0.0005 using ~= and *=*
 
 
 ### Normal image
@@ -25,3 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque hic adipisci pa
 ![Alfred](alfredeneuman.jpg#thumbnail)
 
 This is a thumbnail version using a stylesheet
+
+![image alt >](alfredeneuman.jpg.jpg)
+![image alt <](alfredeneuman.jpg.jpg)
+![image alt ><](alfredeneuman.jpg.jpg)
