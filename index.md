@@ -86,25 +86,22 @@ The tag **markdown=1** tries to tell the processor that there is markdown code i
 &nbsp;
 
 Ver:
-0.94 reindented
+0.94 reindented    
+0.95 moved \<\/a\> up, put in markdown li
 
 Let's try this again with the \<a href=...\> included so that we can get the links working correctly.
 
-<section class="info" markdown="1" ><a href="alredenueman.jpg">
+<section class="info"><a href="alredenueman.jpg">
  <figure class="infoimg">
  <img class="w320" src="alfredeneuman.jpg" alt="ThingSpeak Output" />
  <figcaption>Alfred E Neumann of MAD<</figcaption>
- </figure>
-</a>
-<div  class="infotext">
+ </figure></a>
+<div  class="infotext" markdown="1">
  <p><b>Instructions</b></p>
- <ul>
- <li>Item 1</li>
- <li>Item 2</li>
- <li>Item 3</li>
- <li>Item 4</li>
- <li>Item 5</li>
- </ul>
+ This is another list item
+ * Item 1
+ * Item 2
+ * Item 3
  </div>
  <div class="infoclr"></div>
 </section> <!--End of Section.info-->
