@@ -85,11 +85,11 @@ The tag **markdown=1** tries to tell the processor that there is markdown code i
 
 &nbsp;
 
-Ver: 0.7, using a href
+Ver: 0.8, using a href, added the p
 
 Let's try this again with the \<a href=...\> included so that we can get the links working correctly.
 
-<section class="info" markdown="1" ><a href="alredenueman.jpg">figure class="infoimg"> <img class="w320" src="alfredeneuman.jpg" alt="ThingSpeak Output" /><figcaption>Alfred E Neumann of MAD<</figcaption></figure></a>
+<section class="info" markdown="1" ><a href="alredenueman.jpg">figure class="infoimg"> <img class="w320" src="alfredeneuman.jpg" alt="ThingSpeak Output" /><p><figcaption>Alfred E Neumann of MAD<</figcaption></figure></p></a>
 <div  class="infotext">
  <p><b>Instructions</b></p>
  <ul>
