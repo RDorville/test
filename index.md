@@ -36,7 +36,7 @@ This is a thumbnail version using a stylesheet, the code is shown as below
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae omnis odio eos, consequuntur enim ab minus dolorem optio, corporis quisquam eligendi nobis, delectus, tempora sunt! Illum eligendi quaerat debitis atque.
 
-This uses a /<section/> and /<figure/>, however, you cannot indent your code and have only 1 space between tags.  Somehow the github processor does not process the /<a href.../> which you can examine by looking at the source code.  This works nicely when it works.
+This uses a \<section\> and \<figure\>, however, you cannot indent your code and have only 1 space between tags.  Somehow the github processor does not process the /<a href.../> which you can examine by looking at the source code.  This works nicely when it works.
 
 <section class="info" markdown="1" >
  <figure class="infoimg">
