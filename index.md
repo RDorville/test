@@ -106,6 +106,22 @@ Let's try this again with the \<a href=...\> included so that we can get the lin
  <div class="infoclr"></div>
 </section> <!--End of Section.info-->
 
+With a image of 200px
+
+<section class="info"><a href="alredenueman.jpg">
+ <figure class="infoimg">
+ <img class="w200" src="alfredeneuman.jpg" alt="ThingSpeak Output" />
+ <figcaption>Alfred E Neumann of MAD<</figcaption>
+ </figure></a>
+<div  class="infotext" markdown="1">
+ <p><b>Instructions</b></p>
+ This is another list item
+ * Item 1
+ * Item 2
+ * Item 3
+ </div>
+ <div class="infoclr"></div>
+</section> <!--End of Section.info-->
 
 
 
