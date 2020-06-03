@@ -26,14 +26,70 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque hic adipisci pa
 
 This is a thumbnail version using a stylesheet
 
-![image alt >](alfredeneuman.jpg)
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur error tempore, quasi, accusamus earum totam laudantium beatae voluptas porro odit adipisci quis officiis molestiae, nemo repellendus nulla magnam aperiam accusantium.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam labore officia expedita dolorum animi reiciendis possimus, suscipit, vel aut consequatur a. Labore excepturi, quae tempora sunt deleniti voluptatibus voluptas accusamus!
+<section class="info">
+    <a href="alfredeneuman.jpg" target="_blank"
+        <figure class="infoimg">
+            <img class="w320" src="alfredeneuman.jpg" alt="Option A Closed Box" />
+            <figcaption>Option A Closed Box</figcaption>
+        </figure>
+    </a>
+    <a href="alfredeneuman.jpg" target="_blank"
+        <figure class="infoimg">
+            <img class="w320" src="alfredeneuman.jpg" alt="Option B Closed Box" />
+            <figcaption>Option B Open Enclosure</figcaption>
+        </figure>
+    </a>
+    <div class="infoclr"></div>
+</section> <!--End of Section.info-->
 
-![image alt <](alfredeneuman.jpg)
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus id sint vel, perspiciatis, aut quas voluptatum saepe fugiat quasi alias laudantium sapiente expedita harum corrupti at ducimus repellendus tempora animi.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam optio quas, mollitia magnam a nostrum dolores accusantium molestiae voluptatibus, nemo veniam impedit iure provident illo ex corporis fugit perspiciatis vero.
+<section class="info">
+    <a href="alfredeneuman.jpg" target="_blank"
+        <figure class="infoimg">
+            <img class="w200" src="alfredeneuman.jpg" alt="ThingSpeak Output" />
+            <figcaption>
+                ThingSpeak Output of Data1 and Data2
+            </figcaption>
+        </figure>
+    </a>
+    <div  class="infotext">
+        <p><b>Instructions</b></p>
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+            <li>Item 4</li>
+            <li>Item 5</li>
+        </ul>
+    </div>
+    <div class="infoclr"></div>
+</section> <!--End of Section.info-->
 
-![image alt ><](alfredeneuman.jpg)
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid, atque voluptatum placeat ut nostrum soluta illum sequi esse vero, doloribus officiis eius exercitationem, hic nam, dicta beatae praesentium ratione?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum adipisci quam, facilis debitis quo quos. Reprehenderit modi optio architecto odit maxime autem alias, doloribus veniam hic illo et minus numquam.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae omnis odio eos, consequuntur enim ab minus dolorem optio, corporis quisquam eligendi nobis, delectus, tempora sunt! Illum eligendi quaerat debitis atque.
+
+<section class="info">
+    <a href="alfredeneuman.jpg" target="_blank"
+        <figure class="infoimg">
+            <img class="w320" src="alfredeneuman.jpg" alt="ThingSpeak Output" />
+            <figcaption>
+                ThingSpeak Output of Data1 and Data2
+            </figcaption>
+        </figure>
+    </a>
+    <div  class="infotext">
+        <p><b>Instructions</b></p>
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+            <li>Item 4</li>
+            <li>Item 5</li>
+        </ul>
+    </div>
+    <div class="infoclr"></div>
+</section> <!--End of Section.info-->
