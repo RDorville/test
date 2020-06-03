@@ -73,23 +73,23 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid, atque
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae omnis odio eos, consequuntur enim ab minus dolorem optio, corporis quisquam eligendi nobis, delectus, tempora sunt! Illum eligendi quaerat debitis atque.
 
 <section class="info">
-    <a href="alfredeneuman.jpg" target="_blank"
-        <figure class="infoimg">
-            <img class="w320" src="alfredeneuman.jpg" alt="ThingSpeak Output" />
-            <figcaption>
-                ThingSpeak Output of Data1 and Data2
-            </figcaption>
-        </figure>
-    </a>
-    <div  class="infotext">
-        <p><b>Instructions</b></p>
-        <ul>
-            <li>Item 1</li>
-            <li>Item 2</li>
-            <li>Item 3</li>
-            <li>Item 4</li>
-            <li>Item 5</li>
-        </ul>
-    </div>
-    <div class="infoclr"></div>
+ <a href="alfredeneuman.jpg" target="_blank"
+ <figure class="infoimg">
+  <img class="w320" src="alfredeneuman.jpg" alt="ThingSpeak Output" />
+ <figcaption>
+  ThingSpeak Output of Data1 and Data2
+ </figcaption>
+ </figure>
+</a>
+<div  class="infotext">
+ <p><b>Instructions</b></p>
+ <ul>
+ <li>Item 1</li>
+ <li>Item 2</li>
+ <li>Item 3</li>
+ <li>Item 4</li>
+ <li>Item 5</li>
+ </ul>
+ </div>
+ <div class="infoclr"></div>
 </section> <!--End of Section.info-->
