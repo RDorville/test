@@ -72,7 +72,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid, atque
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae omnis odio eos, consequuntur enim ab minus dolorem optio, corporis quisquam eligendi nobis, delectus, tempora sunt! Illum eligendi quaerat debitis atque.
 
-<span class="info" markdown="1" >
+<section class="info" markdown="1" >
  <figure class="infoimg">
   <img class="w320" src="alfredeneuman.jpg" alt="ThingSpeak Output" />
  <figcaption>
@@ -90,4 +90,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae omnis odio eos, 
  </ul>
  </div>
  <div class="infoclr"></div>
-</span> <!--End of Section.info-->
+</section> <!--End of Section.info-->
