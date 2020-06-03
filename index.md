@@ -85,11 +85,12 @@ The tag **markdown=1** tries to tell the processor that there is markdown code i
 
 &nbsp;
 
-Try: 3, putting them on the same lines
+Try: 4, using md image link
 
 Let's try this again with the \<a href=...\> included so that we can get the links working correctly.
 
-<section class="info" markdown="1" ><a href="alfredeneuman.jpg" target="_blank"><figure class="infoimg"> <img class="w320" src="alfredeneuman.jpg" alt="ThingSpeak Output" /> <figcaption> Alfred E Neumann of MAD<</figcaption></figure>
+<section class="info" markdown="1" >
+[figure class="infoimg"> <img class="w320" src="alfredeneuman.jpg" alt="ThingSpeak Output" /> <figcaption> Alfred E Neumann of MAD<</figcaption></figure>]("alfredeneuman.jpg")
 <div  class="infotext">
  <p><b>Instructions</b></p>
  <ul>
@@ -100,7 +101,7 @@ Let's try this again with the \<a href=...\> included so that we can get the lin
  <li>Item 5</li>
  </ul>
  </div>
- <div class="infoclr"></div></p></a><p>
+ <div class="infoclr"></div>
 </section> <!--End of Section.info-->
 
 
