@@ -72,8 +72,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid, atque
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae omnis odio eos, consequuntur enim ab minus dolorem optio, corporis quisquam eligendi nobis, delectus, tempora sunt! Illum eligendi quaerat debitis atque.
 
-<section class="info">
- <a href="alfredeneuman.jpg" target="_blank"
+<section class="info"><a href="alfredeneuman.jpg" target="_blank"
  <figure class="infoimg">
   <img class="w320" src="alfredeneuman.jpg" alt="ThingSpeak Output" />
  <figcaption>
