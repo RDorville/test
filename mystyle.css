@@ -8,16 +8,16 @@ img[src~="bordered"] {
 
 img[alt$=">"] {
   float: right;
-  width:"40%";
+  width:"200px";
 }
 
 img[alt$="<"] {
   float: left;
-   width:"40%"
+   width:"200px"
 }
 
 img[alt$="><"] {
-   width:"40%";
+   width:"200px";
   display: block;
   max-width: 100%;
   height: auto;
