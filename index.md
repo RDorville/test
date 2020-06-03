@@ -1,6 +1,7 @@
-<link href="style.css" rel="stylesheet"></link>
+<link href="style.css" rel="stylesheet" />
 
-> Trying to embed a stylesheet in Markdown
+> Trying to embed a stylesheet in Markdow
+> v0.002
 
 
 Anaconda
