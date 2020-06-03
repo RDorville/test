@@ -42,7 +42,7 @@ This uses a /<section/> and /<figure/>, however, you cannot indent your code and
  <figure class="infoimg">
   <img class="w320" src="alfredeneuman.jpg" alt="ThingSpeak Output" />
  <figcaption>
-  ThingSpeak Output of Data1 and Data2
+  [Alfred E Neumann of MAD](alfredeneuman.jpg)
  </figcaption>
  </figure>
 <div  class="infotext">
@@ -65,7 +65,7 @@ The tag **markdown=1** tries to tell the processor that there is markdown code i
  <figure class="infoimg">
   <img class="w320" src="alfredeneuman.jpg" alt="ThingSpeak Output" />
  <figcaption>
-  ThingSpeak Output of Data1 and Data2
+  [Alfred E Neumann of MAD](alfredeneuman.jpg)
  </figcaption>
  </figure>
 <div  class="infotext">
