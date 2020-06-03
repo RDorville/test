@@ -4,6 +4,7 @@
 
 > How to style your images   
 > ver 0.9 uses mystyle.css - .infoXXX
+> ver 0.91 adds a href
 
 
 ### Normal image
@@ -42,7 +43,7 @@ This uses a \<section\> and \<figure\>, however, you cannot indent your code and
  <figure class="infoimg">
   <img class="w320" src="alfredeneuman.jpg" alt="ThingSpeak Output" />
  <figcaption>
-  [Alfred E Neumann of MAD](alfredeneuman.jpg)
+  Alfred E Neumann of MAD
  </figcaption>
  </figure>
 <div  class="infotext">
@@ -65,7 +66,7 @@ The tag **markdown=1** tries to tell the processor that there is markdown code i
  <figure class="infoimg">
   <img class="w320" src="alfredeneuman.jpg" alt="ThingSpeak Output" />
  <figcaption>
-  [Alfred E Neumann of MAD](alfredeneuman.jpg)
+  Alfred E Neumann of MAD
  </figcaption>
  </figure>
 <div  class="infotext">
@@ -83,5 +84,30 @@ The tag **markdown=1** tries to tell the processor that there is markdown code i
 ```
 
 &nbsp;
+
+Let's try this again with the \<a href=...\> included so that we can get the links working correctly.
+
+<section class="info" markdown="1" ><a href="alfredeneuman.jpg" target="_blank"> <figure class="infoimg">
+  <img class="w320" src="alfredeneuman.jpg" alt="ThingSpeak Output" />
+ <figcaption>
+  Alfred E Neumann of MAD
+ </figcaption>
+ </figure>
+<div  class="infotext">
+ <p><b>Instructions</b></p>
+ <ul>
+ <li>Item 1</li>
+ <li>Item 2</li>
+ <li>Item 3</li>
+ <li>Item 4</li>
+ <li>Item 5</li>
+ </ul>
+ </div>
+ <div class="infoclr"></div>
+</a>
+</section> <!--End of Section.info-->
+
+
+
 
 **June 2020**
