@@ -26,6 +26,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque hic adipisci pa
 
 This is a thumbnail version using a stylesheet
 
-![image alt >](alfredeneuman.jpg.jpg)
-![image alt <](alfredeneuman.jpg.jpg)
-![image alt ><](alfredeneuman.jpg.jpg)
+![image alt >](alfredeneuman.jpg)
+![image alt <](alfredeneuman.jpg)
+![image alt ><](alfredeneuman.jpg)
