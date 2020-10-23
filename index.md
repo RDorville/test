@@ -6,6 +6,12 @@
 > ver 0.9 uses mystyle.css - .infoXXX
 > ver 0.91 adds a href
 
+### Emojis
+
+:blush:
+
+Let's try some emojis
+
 
 ### Normal image
 
